@@ -1,4 +1,4 @@
-# cyber: Расчет знаний Великой Паутины
+# cyber: Вычисление знаний Великой Паутины
 
 <p align="center">
   <img src="images/graph.png" />
