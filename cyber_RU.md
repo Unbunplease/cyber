@@ -97,7 +97,7 @@
 
 Имплементация [go-cyber](https://github.com/cybercongress/go-cyber) киберлинков доступна в приложении [.cyber](https://github.com/cybercongress/dot-cyber) нашего экспериментального web3-браузера [cyb](https://cyb.ai), или на [cyber.page](http://cyber.page) .
 
-Киберлинки, подписанные мастерами, хранятся в дереве Меркла в соответствии со [стандартом RFC-6962](https://ipfs.io/ipfs/QmZpJLmc3T2L1FLUxzvU3P8MBCPe15fEmUyVS7Bz8ZKMhG). Это позволяет проводить аутентификацию для [доказательства релевантности](#proof-of-relevance) .
+Киберлинки, подписанные мастерами, хранятся в дереве Меркла в соответствии со [стандартом RFC-6962](https://ipfs.io/ipfs/QmZpJLmc3T2L1FLUxzvU3P8MBCPe15fEmUyVS7Bz8ZKMhG) . Это позволяет проводить аутентификацию для [доказательства релевантности](#proof-of-relevance) .
 
 <p align="center">
   <img src="images/graph-tree.png" />
