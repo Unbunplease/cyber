@@ -53,7 +53,7 @@
 
 `Qme4z71Zea9xaXScUi6pbsuTKCCNFp5TAv8W5tjdfH7yuH`
 
-Применив адреса контента при создании графа знаний, мы получаем [очень нужный](https://steemit.com/web3/@hipster/an-idea-of-decentralized-search-for-web3-ce860d61defe5est) [IPFS] (https://ipfs.io/ipfs/QmV9tSDx9UiPeWExXEeH6aoDvmihvx6jD5eLb4jbTaKGps) - [подобный](https://ipfs.io/ipfs/QmXHGmfo4sjdHVW2MAxczAfs44RCpSeva2an4QvkzqYgfR) ,позволяющий использовать суперспособности p2p-протоколов, необходимые для нормального функционирования поисковой системы:
+Применив адреса контента при создании графа знаний, мы получаем [очень нужный](https://steemit.com/web3/@hipster/an-idea-of-decentralized-search-for-web3-ce860d61defe5est) [IPFS] (https://ipfs.io/ipfs/QmV9tSDx9UiPeWExXEeH6aoDvmihvx6jD5eLb4jbTaKGps) - [подобный](https://ipfs.io/ipfs/QmXHGmfo4sjdHVW2MAxczAfs44RCpSeva2an4QvkzqYgfR) протокол ,позволяющий использовать суперспособности p2p-протоколов, необходимые для нормального функционирования поисковой системы:
 
 - многосвязная сеть, соответствующая требованиям завтрашнего дня
 - межпланетная доступность
